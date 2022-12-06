@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "603666607646",
+    "project_id": "t-shirt-selling-app-9bd92",
+    "storage_bucket": "t-shirt-selling-app-9bd92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603666607646:android:0c389ce69443468343880f",
+        "android_client_info": {
+          "package_name": "com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603666607646-ugncp6c0j9ao6r2ism95el84luke99qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapplication",
+            "certificate_hash": "97cac77738954b00bc919ddb342facb9465edc20"
+          }
+        },
+        {
+          "client_id": "603666607646-phbuj339l0l5ctvcm0qd609ug55f9tl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJYvzQ3c7G8KYkQ5f3e7T-bo2bVoCdE9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603666607646-phbuj339l0l5ctvcm0qd609ug55f9tl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

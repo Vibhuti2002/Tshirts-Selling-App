@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">T-Shirts Selling App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="hello">Hello!</string>
+    <string name="signup">Signup</string>
+</resources>
